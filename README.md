@@ -15,7 +15,7 @@
 | Retrieve location from database in location filter    |         |  |
 | Share listing   |         |  (Leon)   |
 | Make Common Style resources and Components according to Lanhu design    |         | (Eric)  |
-| Change style using common style resource and components in 10)    |         |  |
+| Change style using common style resource and components    |         | (Eric) |
 | Icon, splash screen   |         |  (Eric) |
 
 
