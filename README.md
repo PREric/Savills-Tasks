@@ -12,7 +12,6 @@
 | Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) |
 | Retrieve location from database in location filter    |         |  |
 | Retrieve meta data from database instead of store in memory    |         |  |
-| Retrieve location from database in location filter    |         |  |
 | Share listing   |         |  (Leon)   |
 | Make Common Style resources and Components according to Lanhu design    |         | (Eric)  |
 | Change style using common style resource and components    |         | (Eric) |
