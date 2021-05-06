@@ -6,7 +6,7 @@
 | Show and remove filter chips (location, price, room)       | ![Tux, the Linux mascot](/images/image3.png)       | Eric| |
 | Change sorting popup to dialog (Shannon)   | ![Tux, the Linux mascot](/images/image4.png)        | (Shannon) ||
 | Show search list result count (Eric)   |         | (Eric) | DONE |
-| More comment and add comment   |      | Leon | Use H5 (not yet working)|
+| More comment and add comment   |      | Emily | Use H5 (not yet working)|
 | Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       | Emily ||
 | Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      | Shannon |  |
 | Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) ||
