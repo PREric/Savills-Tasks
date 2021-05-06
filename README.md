@@ -14,7 +14,7 @@
 | Retrieve meta data from database instead of store in memory    |         |  ||
 | Share listing   |         |  (Leon)   ||
 | Make Common Style resources and Components according to Lanhu design    |         | (Eric)  ||
-| Change style using common style resource and components    |         | (Eric) ||
+| Change style using common style resource and components    |         | ALL ||
 | Icon, splash screen   |         |  (Eric) ||
 
 
