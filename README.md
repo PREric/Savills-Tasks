@@ -11,7 +11,7 @@
 | Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      |  ||
 | Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) ||
 | Retrieve location from database in location filter    |         |  ||
-| Retrieve meta data from database instead of store in memory    |         |  ||
+| Retrieve meta data from database instead of store in memory    |         | ALL ||
 | Share listing   |         |  (Leon)   ||
 | Make Common Style resources and Components according to Lanhu design    |         | (Eric)  ||
 | Change style using common style resource and components    |         | ALL ||
