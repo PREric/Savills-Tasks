@@ -12,10 +12,11 @@
 | Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) ||
 | Retrieve location from database in location filter    |         |  ||
 | Retrieve meta data from database instead of store in memory    |         | ALL ||
-| Share listing   |         |  (Leon)   ||
+| Share listing   |         |  (Shannon)   ||
 | Make Common Style resources and Components according to Lanhu design    |         | Emily  ||
 | Change style using common style resource and components    |         | ALL ||
 | Icon, splash screen   |         |  (Eric) ||
+| Distribution Channel | | Emily | |
 
 
 1. 	Show and remove filter chips (location, price, room) 
