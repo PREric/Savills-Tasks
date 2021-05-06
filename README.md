@@ -1,21 +1,21 @@
 # Savills-Tasks
 
 
-| Tasks       | Sreens      | In Charge   |
-| ----------- | ----------- | ----------- |
-| Show and remove filter chips (location, price, room)       | ![Tux, the Linux mascot](/images/image3.png)       |
-| Change sorting popup to dialog (Shannon)   | ![Tux, the Linux mascot](/images/image4.png)        | (Shannon) |
-| Show search list result count (Eric)   |         | (Eric) |
-| More comment and add comment   |      | |
-| Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       |  |
-| Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      |  |
-| Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) |
-| Retrieve location from database in location filter    |         |  |
-| Retrieve meta data from database instead of store in memory    |         |  |
-| Share listing   |         |  (Leon)   |
-| Make Common Style resources and Components according to Lanhu design    |         | (Eric)  |
-| Change style using common style resource and components    |         | (Eric) |
-| Icon, splash screen   |         |  (Eric) |
+| Tasks       | Sreens      | In Charge   | Finished   |
+| ----------- | ----------- | ----------- |-------------|
+| Show and remove filter chips (location, price, room)       | ![Tux, the Linux mascot](/images/image3.png)       ||
+| Change sorting popup to dialog (Shannon)   | ![Tux, the Linux mascot](/images/image4.png)        | (Shannon) ||
+| Show search list result count (Eric)   |         | (Eric) ||
+| More comment and add comment   |      | ||
+| Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       |  ||
+| Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      |  ||
+| Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) ||
+| Retrieve location from database in location filter    |         |  ||
+| Retrieve meta data from database instead of store in memory    |         |  ||
+| Share listing   |         |  (Leon)   ||
+| Make Common Style resources and Components according to Lanhu design    |         | (Eric)  ||
+| Change style using common style resource and components    |         | (Eric) ||
+| Icon, splash screen   |         |  (Eric) ||
 
 
 1. 	Show and remove filter chips (location, price, room) 
