@@ -8,7 +8,7 @@
 | Show search list result count (Eric)   |         | (Eric) | DONE |
 | More comment and add comment   |      | ||
 | Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       |  ||
-| Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      |  ||
+| Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      |  | Eric |
 | Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) ||
 | Retrieve location from database in location filter    |         |  ||
 | Retrieve meta data from database instead of store in memory    |         | ALL ||
