@@ -5,7 +5,7 @@
 | ----------- | ----------- | ----------- |-------------|
 | Show and remove filter chips (location, price, room)       | ![Tux, the Linux mascot](/images/image3.png)       ||
 | Change sorting popup to dialog (Shannon)   | ![Tux, the Linux mascot](/images/image4.png)        | (Shannon) ||
-| Show search list result count (Eric)   |         | (Eric) ||
+| Show search list result count (Eric)   |         | (Eric) | DONE |
 | More comment and add comment   |      | ||
 | Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       |  ||
 | Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      |  ||
