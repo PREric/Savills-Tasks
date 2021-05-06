@@ -13,7 +13,7 @@
 | Retrieve location from database in location filter    |         |  ||
 | Retrieve meta data from database instead of store in memory    |         | ALL ||
 | Share listing   |         |  (Leon)   ||
-| Make Common Style resources and Components according to Lanhu design    |         | (Eric)  ||
+| Make Common Style resources and Components according to Lanhu design    |         | Emily  ||
 | Change style using common style resource and components    |         | ALL ||
 | Icon, splash screen   |         |  (Eric) ||
 
