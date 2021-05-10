@@ -3,20 +3,20 @@
 
 | Tasks       | Sreens      | In Charge   | Finished   |
 | ----------- | ----------- | ----------- |-------------|
-| Show and remove filter chips (location, price, room)       | ![Tux, the Linux mascot](/images/image3.png)       | Eric| |
+| Show and remove filter chips (location, price, room)       | ![Tux, the Linux mascot](/images/image3.png)       | Eric| Done|
 | Change sorting popup to dialog (Shannon)   | ![Tux, the Linux mascot](/images/image4.png)        | (Shannon) ||
 | Show search list result count (Eric)   |         | (Eric) | DONE |
 | More comment and add comment   |      | Emily | Use H5 (not yet working)|
-| Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       | Emily ||
-| Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      | Shannon |  |
+| Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       | Emily | Done |
+| Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      | Shannon | Done |
 | Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) ||
 | Retrieve location from database in location filter    |         |  ||
 | Retrieve meta data from database instead of store in memory    |         | ALL ||
 | Share listing   |         |  (Shannon)   ||
-| Make Common Style resources and Components according to Lanhu design    |         | Emily  ||
+| Make Common Style resources and Components according to Lanhu design    |         | Emily  | Done |
 | Change style using common style resource and components    |         | ALL ||
-| Icon, splash screen   |         |  (Eric) ||
-| Distribution Channel | | Emily | |
+| Icon, splash screen   |         |  (Eric) | Done |
+| Distribution Channel | | Emily | Done |
 
 
 1. 	Show and remove filter chips (location, price, room) 
