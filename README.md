@@ -10,7 +10,7 @@
 | Listing details layout    |     ![Tux, the Linux mascot](/images/image6.png)       | Emily | Done |
 | Listing details toolbar and bottombar     |      ![Tux, the Linux mascot](/images/image1.png)      | Shannon | Done |
 | Compare the display value of listing details with IOS (Shannon)    |         | (Shannon) ||
-| Retrieve location from database in location filter    |         |  ||
+| Retrieve location from database in location filter    |         |  | Done |
 | Retrieve meta data from database instead of store in memory    |         | ALL ||
 | Share listing   |         |  (Shannon)   ||
 | Make Common Style resources and Components according to Lanhu design    |         | Emily  | Done |
